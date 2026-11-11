@@ -1,0 +1,6 @@
+{
+  "name": "SMUS Enterprise Data Sharing Platform (DAP)",
+  "description": "Enterprise-grade Data Sharing Platform integrated with SageMaker Unified Studio (SMUS) for multi-participant project management, metadata sharing, data marketplace, execution history, and granular role-based governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
